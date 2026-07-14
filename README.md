@@ -1,9 +1,7 @@
 # YuksekLisansTezKodlar
 Bu depoda yüksek lisans tez çalışmamda kullandığım kodlar bulunmaktadır.
 
-Kodlar hakkında detaylı bilgiler aşağıda yer almaktadır.
-
-Tez çalışmasında kullanılan kodlar aşağıdaki sırayla depoya eklenmiştir:
+Tez çalışmasında kullanılan kodların listesi aşağıda yer almaktadır:
 1) Veri Setleri Ön İşleme
 2) Veri Setleri Birleştirme
 3) Birinci Deney: TF-IDF Özellikleri Kullanılarak Eğitilen KNN Modeli için GridSearchCV ile Hiperparametre Optimizasyonu
