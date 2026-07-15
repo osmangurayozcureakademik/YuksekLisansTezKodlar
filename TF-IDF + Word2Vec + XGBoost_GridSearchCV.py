@@ -20,7 +20,6 @@ from sklearn.preprocessing import LabelEncoder
 from xgboost import XGBClassifier
 
 import re
-import numpy as np
 
 from gensim.models import Word2Vec
 from sklearn.base import BaseEstimator, TransformerMixin
