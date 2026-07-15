@@ -25,8 +25,6 @@ import numpy as np
 from gensim.models import Word2Vec
 from sklearn.base import BaseEstimator, TransformerMixin
 
-from word2vec_transformer import Word2VecVectorizer
-
 # Word2Vec Dönüştürücü Sınıfı
 class Word2VecVectorizer(BaseEstimator, TransformerMixin):
 
